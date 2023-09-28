@@ -16,4 +16,4 @@ Bubble sort is a simple sorting algorithm that repeatedly steps through the list
 
 5.- Repeat steps 1-4 until you go through the entire list without making any swaps during a pass. This means the list is now sorted.
 
-![My Image](./bubbleSort.c)
+![My Image](./images/bublesort.png)
